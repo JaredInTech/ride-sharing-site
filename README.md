@@ -1,4 +1,4 @@
-# AWS Project - End-to-End CI/CD Web App Deployment with 7 Core Services - Test
+# AWS Project - End-to-End CI/CD Web App Deployment with 7 Core Services
 
 In this project I demonstrate the architecture of a web application for Wild Rydes, a fictional unicorn ride-sharing platform inspired by the original Amazon serverless workshop. The solution integrates several AWS services including IAM, Cognito, Lambda, API Gateway, and DynamoDB, with source code managed in GitHub and deployed via a CI/CD pipeline using Amplify.
 
