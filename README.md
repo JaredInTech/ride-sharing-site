@@ -4,7 +4,7 @@ In this project I demonstrate the architecture of a web application for Wild Ryd
 
 Users can create an account, log in, and request a ride by selecting a location on a map powered by ArcGIS. The application’s architecture is modular, allowing for easy extension and enhancement of features as needed.
 
-This site can be accessed at: https://main.d11i9pbpgaafma.amplifyapp.com/
+This site can be accessed at: [https://main.d11i9pbpgaafma.amplifyapp.com/](https://wildrydes.jaredintech.com/)
 
 ## The Application Code
 The application source code is contained within this repository.
